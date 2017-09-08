@@ -1,2 +1,1 @@
-# mail-in-one
-Test Plugin
+# My project's README

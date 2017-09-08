@@ -1,0 +1,19 @@
+    {
+        "defaultEntryPoint" : "index.html",
+        "namespace"         : "MailInOne",
+        "menuEntries"       : [
+                               
+                                {
+                                  "label": "Kontoeinstellungen",
+                                  "menu": "settings/cms/maileon",
+                                  "urlKey": "account",
+                                  "entryPoint": "index.html?action=test"
+                                },
+                                {
+                                  "label": "kontakte synchronisieren",
+                                  "menu": "settings/cms/maileon",
+                                  "urlKey": "start",
+                                  "entryPoint": "index.html?action=start"
+                                }
+                              ]
+    }

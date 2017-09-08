@@ -1,0 +1,11 @@
+{
+    "name":"Mail-In-One",
+    "description":"My Mail-In-One plugin",
+    "namespace":"MailInOne",
+    "author":"Sami jarmoud",
+    "type":"template",
+    "serviceProvider":"MailInOne\\Providers\\MailInOneServiceProvider",
+    "dependencies" : {
+        "guzzlehttp/guzzle": "6.2.*"
+    }
+}
